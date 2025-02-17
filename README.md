@@ -26,12 +26,16 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 - 오픈소스 정신을 바탕으로 한 지식 공유 문화
 - 실패를 성공의 디딤돌로 만드는 실험적 접근
 
+### Introduction: 이번 시즌 스터디 목표 
+- 제약분야에서는 어떤 문제를 풀까? 어떤 기술이 어느 부분에 적용되고 있나?
+- 각 문제를 Data, Model의 문제로 환원하는 방법
+- 최신 연구의 trend. 앞으로 심도있게 연구할 분야 선정
 
 ## 🧑 역동적인 팀 소개 (Dynamic Team)
 
 | 역할          | 이름 |  기술 스택 배지                                                                 | 주요 관심 분야                          |
 |---------------|------|-----------------------------------------------------------------------|----------------------------------------|
-| **Project Manager** | 최호재 | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI, 연구, 웹서비스 구축             |
+| **Project Manager** | [최호재](https://www.linkedin.com/in/hojae-m-choi) | ![Python](https://img.shields.io/badge/Python-Expert-3776AB) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) | 생성형 AI, 연구, 웹서비스 구축             |
 | **Member** | ??? |  |  |
 | **Member** | ??? |  |  |
 | **Member** | ??? |  |  |
@@ -69,9 +73,9 @@ class CollaborationFramework:
     
     def workflow(self):
         return """주간 사이클:
-        1️⃣ 월요일: 논문 리뷰 발표 (Notion 타임라인 공유)
-        2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
-        3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
+        1️⃣ 월요일: 논문 리뷰 발표 (Github & Notion 타임라인 공유)
+        2️⃣ 화요일: 발표 후기 올리기 (본인의 blog --> Github 에 공유)
+        3️⃣ 수요일: 발표 홍보 하기 (본인의 SNS 계정에 발표글 링크를 걸어서 소개하기)"""
 ```
 
 
@@ -107,8 +111,6 @@ class CollaborationFramework:
 | 2025/06/02 | 논문 리뷰 - Ligand based method 1 |  미정 |  선정 중 |
 | 2025/06/09 | 논문 리뷰 - Ligand based method 2 |  미정 |  선정 중 |
 
-
-
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
 
@@ -117,11 +119,10 @@ class CollaborationFramework:
 - [Structure Based Drug Design](references/LIST.md#SBDD)
 - [Conditional Generation](references/LIST.md#Conditional_Generation)
 
-
 ### 참고자료
-- [LAIDD](https://www.laidd.org/): (optional) 제약분야에 대해서 self-pace 로 학습하고 싶을 때
-- [Valence Portal](https://portal.valencelabs.com/): 제약분야에서 사용되는 최신의 모델들을 파악하고 싶을 때
-- [amorehead/awesome-molecular-generation](https://github.com/amorehead/awesome-molecular-generation): 그나마 최근 까지 활동적인 awsome list
+- 주: [Valence Portal](https://portal.valencelabs.com/): 제약분야에서 사용되는 최신의 모델들을 파악하고 싶을 때
+- 부: [LAIDD](https://www.laidd.org/): (optional) 제약분야에 대해서 self-pace 로 학습하고 싶을 때
+- 부: [amorehead/awesome-molecular-generation](https://github.com/amorehead/awesome-molecular-generation): 그나마 최근 까지 활동적인 awsome list
 
 <!--
 - [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
@@ -133,7 +134,7 @@ class CollaborationFramework:
 
 **진행 정보**
 - 시간: 매주 월요일 오후 8시
-- 장소: 온라인 / 오프라인(강남역)
+- 장소: 온라인 (Pseudo Lab 디스코드 채널: `Room-YB`)
 
 **참여 조건**
 - **제약분야에 사용되는 AI, 기술이나, 제약회사 경력에 관심 있으신 분**
