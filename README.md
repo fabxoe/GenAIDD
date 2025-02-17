@@ -69,7 +69,7 @@ class CollaborationFramework:
     
     def workflow(self):
         return """주간 사이클:
-        1️⃣ 월요일: 스프린트 플래닝 (Notion 타임라인 공유)
+        1️⃣ 월요일: 논문 리뷰 발표 (Notion 타임라인 공유)
         2️⃣ 수요일: 코드 리뷰 세션 (Live Share)
         3️⃣ 금요일: 데모데이 (실제 적용 사례 발표)"""
 ```
@@ -150,7 +150,7 @@ class CollaborationFramework:
 > - 제약분야 관련 경험 or AI/ML 관련 연구/스터디 경험
 
 **누구나 청강을 통해 모임을 참여하실 수 있습니다.**  
-1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-GH 채널로 입장
+1. 특별한 신청 없이 정기 모임 시간에 맞추어 디스코드 #Room-YB 채널로 입장
 2. Magical Week 중 행사에 참가
 3. Pseudo Lab 행사에서 만나기
 
