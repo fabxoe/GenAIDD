@@ -108,10 +108,18 @@ class CollaborationFramework:
 
 ## 💡 학습 자원 (Learning Resources)
 **우리가 만든 지식 허브**  
+
+### 논문 리스트 
+(추가예정)
+- [Structure Based Drug Design](references/LIST.md#SBDD)
+- [Conditional Generation](references/LIST.md#Conditional_Generation)
+
+
+### 참고자료
 - [LAIDD](https://www.laidd.org/): (optional) 제약분야에 대해서 self-pace 로 학습하고 싶을 때
 - [Valence Portal](https://portal.valencelabs.com/): 제약분야에서 사용되는 최신의 모델들을 파악하고 싶을 때
 - [amorehead/awesome-molecular-generation](https://github.com/amorehead/awesome-molecular-generation): 그나마 최근 까지 활동적인 awsome list
-- 
+
 <!--
 - [AI Playbook](https://github.com/your-org/ai-playbook): 150+ 페이지의 실전 가이드
 - [MLOps Pipeline Template](https://github.com/your-org/mlops-template): 재사용 가능한 인프라 코드
