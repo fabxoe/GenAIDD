@@ -46,16 +46,12 @@ _"이론에서 실전까지, 함께 성장하는 AI 실험실"_
 ```mermaid
 gantt
     title 2025 AI 프로젝트 여정
+
     section 핵심 마일스톤
     이론 연구 및 연구 주제 탐구 :a1, 2025-03-02, 90d
     
     section 부가 활동
     기술 세미나(PsuedoCon) 준비 :2025-05-10, 7d
-    
-    section 2기 활동
-    MVP 개발       :a2, after a1, 45d
-    프로덕션 적용    :a3, after a2, 30d
-    해커톤         :2025-11-20, 3d
 ```
 
 
