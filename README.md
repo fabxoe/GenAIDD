@@ -51,7 +51,7 @@ gantt
     이론 연구 및 연구 주제 탐구 :a1, 2025-03-02, 90d
     
     section 부가 활동
-    기술 세미나(PsuedoCon) 준비 :2025-05-10, 7d
+    기술 세미나(PseudoCon) 준비 :2025-05-10, 7d
 ```
 
 
@@ -101,7 +101,7 @@ class CollaborationFramework:
 | 2025/04/28 | Magical Week 휴일                    |  미정 |  - |
 | 2025/05/05 | 논문 리뷰 - Score-based Method 1 |  미정 |  선정 중 |
 | 2025/05/12 | 논문 리뷰 - Score-based Method 2 |  미정 |  선정 중 |
-| 2025/05/17 | PsuedoCon |  - |  - |
+| 2025/05/17 | PseudoCon |  - |  - |
 | 2025/05/19 | 논문 리뷰 - Structure based method 1 |  미정 |  선정 중 |
 | 2025/05/26 | 논문 리뷰 - Structure based method 2 |  미정 |  선정 중 |
 | 2025/06/02 | 논문 리뷰 - Ligand based method 1 |  미정 |  선정 중 |
