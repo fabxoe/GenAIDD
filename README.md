@@ -111,9 +111,7 @@ class CollaborationFramework:
 **우리가 만든 지식 허브**  
 
 ### 논문 리스트 
-(추가예정)
-- [Structure Based Drug Design](references/LIST.md#SBDD)
-- [Conditional Generation](references/LIST.md#Conditional_Generation)
+- [List of papers](references/LIST.md)
 
 ### 참고자료
 - 주: [Valence Portal](https://portal.valencelabs.com/): 제약분야에서 사용되는 최신의 모델들을 파악하고 싶을 때
