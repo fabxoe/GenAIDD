@@ -14,10 +14,10 @@
 
 ### Article
 
-###### arXiv, 2025, Molecular Text Generation, `Discrete Diffusion`
+###### ArXiv, 2025, Molecular Text Generation, Discrete `Diffusion`
 Lee, Seul, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Yuxing Peng, Saee Paliwal, Weili Nie, and Arash Vahdat. 2025. “GenMol: A Drug Discovery Generalist with Discrete Diffusion.” arXiv. https://doi.org/10.48550/arXiv.2501.06158.
 
-###### Nature Computational Science, 2024, Structure-Based Drug Design, `Equivariant Diffusion`
+###### Nature Computational Science, 2024, Structure-Based Drug Design, Equivariant `Diffusion`
 Schneuing, Arne, Charles Harris, Yuanqi Du, Kieran Didi, Arian Jamasb, Ilia Igashov, Weitao Du, et al. 2024. “Structure-Based Drug Design with Equivariant Diffusion Models.” Nature Computational Science, December. https://doi.org/10.1038/s43588-024-00737-x.
 
 
@@ -27,3 +27,9 @@ Watson, Joseph L., David Juergens, Nathaniel R. Bennett, Brian L. Trippe, Jason 
 
 ###### NeurIPS, 2021, Molecular Graph Generation, `GFlowNet`
 Bengio, Emmanuel, Moksh Jain, Maksym Korablyov, Doina Precup, and Yoshua Bengio. 2021. “Flow Network Based Generative Models for Non-Iterative Diverse Candidate Generation.” arXiv. http://arxiv.org/abs/2106.04399.
+
+###### ArXiv, 2024, Structure-Based Drug Design, Target-Conditioned `GFlowNet`
+Shen, Tony, Seonghwan Seo, Grayson Lee, Mohit Pandey, Jason R. Smith, Artem Cherkasov, Woo Youn Kim, and Martin Ester. 2024. “TacoGFN: Target-Conditioned GFlowNet for Structure-Based Drug Design.” arXiv. http://arxiv.org/abs/2310.03223.
+
+###### ArXiv, 2024, Synthesizable Analog Generation, `Transformer`
+Luo, Shitong, Wenhao Gao, Zuofan Wu, Jian Peng, Connor W. Coley, and Jianzhu Ma. 2024. “Projecting Molecules into Synthesizable Chemical Spaces.” arXiv. http://arxiv.org/abs/2406.04628.
