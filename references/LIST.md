@@ -10,6 +10,8 @@
 
 1. Zhang, Zaixi, Jiaxian Yan, Yining Huang, Qi Liu, Enhong Chen, Mengdi Wang, and Marinka Zitnik. 2024. “Geometric Deep Learning for Structure-Based Drug Design: A Survey.” arXiv. https://doi.org/10.48550/arXiv.2306.11768.
 
+2. Tang, Xiangru, Howard Dai, Elizabeth Knight, Fang Wu, Yunyang Li, Tianxiao Li, and Mark Gerstein. 2024. “A Survey of Generative AI for de Novo Drug Design: New Frontiers in Molecule and Protein Generation.” Briefings in Bioinformatics 25 (4): bbae338. https://doi.org/10.1093/bib/bbae338.
+
 ---
 
 ### Article
