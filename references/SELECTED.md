@@ -25,3 +25,9 @@ Luo, Shitong, and Jianfeng Lu. 2024. "Structure-Based Drug Design with Equivaria
 Tang, Xiangru, Howard Dai, Elizabeth Knight, Fang Wu, Yunyang Li, Tianxiao Li, and Mark Gerstein.
 2024.  “A Survey of Generative AI for de Novo Drug Design: New Frontiers in Molecule and Protein Generation.” Bioinformatics 25 (4): bbae338.
 https://doi.org/10.1093/bib/bbae338.
+
+### Sungmin Oh
+
+### ArXiv, 2024, Structure-Based Drug Design, Target-Conditioned `GFlowNet`
+Shen, Tony, Seonghwan Seo, Grayson Lee, Mohit Pandey, Jason R. Smith, Artem Cherkasov, Woo Youn Kim, and Martin Ester. 2024. “TacoGFN: Target-Conditioned GFlowNet for Structure-Based Drug Design.” 
+arXiv. http://arxiv.org/abs/2310.03223.
